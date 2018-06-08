@@ -1,6 +1,6 @@
-# Rompecabezas de la Piramide #
+# Rompecabezas de la Pirámide #
 
-Este proyecto contiene un algoritmo backtraking para resolución del rompecabezas de la piramide.
+Este proyecto contiene un algoritmo backtraking para resolución del rompecabezas de la pirámide.
 
 ## Reglas del rompecabezas ##
 
@@ -32,6 +32,7 @@ La salida del programa para el ejemplo anterior debería ser algo como lo siguie
 
 ## Ejecución ##
 
-Esta versión del algoritmo coge por defecto los 17 casos de prueba y los ejecuta una detrás de otro; lo que no llevará mas de 10 segundos. Durante la ejecución se mostrará el tiempo en milisegundos que tardó en ejecutar cada caso de pruebas.
+Esta versión del algoritmo coge por defecto los 17 casos de prueba y los ejecuta una detrás de otro; lo que no llevará más de 10 segundos. Durante la ejecución se mostrará el tiempo en milisegundos que tardó en ejecutar cada caso de pruebas.
 
-Si se quisiera probar con otra piramide seria necesario modificar el archivo **Launcher.java**, escribiendo la ruta y nombre del fichero.
+Si se quisiera probar con otra pirámide sería necesario modificar el archivo **Launcher.java**, escribiendo la ruta y nombre del fichero.
+
